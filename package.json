@@ -4,7 +4,7 @@
   "description": "域名检索",
   "main": "domain.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node domain.js"
   },
   "repository": {
     "type": "git",

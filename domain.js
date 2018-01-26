@@ -52,4 +52,4 @@ class DomanSearch {
     }
 }
 
-new DomanSearch('common', 'me');
+new DomanSearch('three', 'me');
